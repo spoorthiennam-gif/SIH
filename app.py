@@ -7,6 +7,9 @@ Smart India Hackathon Prototype
 import streamlit as st
 import os
 import sys
+from flask import Flask
+
+app = Flask(__name__)
 
 # Ensure project root is in sys.path
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
