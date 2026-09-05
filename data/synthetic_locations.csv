@@ -1,0 +1,101 @@
+location_id,location_name,location_type,latitude,longitude,historical_risk_score,transaction_volume_score,night_activity_score,previous_incident_count,area_risk_score
+LOC_001,Synthetic State Bank of India - Banjara Hills Rd 12 #1,ATM Kiosk,17.40226,78.43883,0.678,0.84,0.613,21,0.604
+LOC_002,Synthetic HDFC Bank - Hitec City Cyber Towers #2,ATM Kiosk,17.43931,78.3601,0.664,0.631,0.747,19,0.607
+LOC_003,Synthetic ICICI Bank - Begumpet Main Road #3,ATM Kiosk,17.43645,78.47217,0.856,0.867,0.718,27,0.552
+LOC_004,Synthetic Axis Bank - Gachibowli DLF Kiosk #4,ATM Kiosk,17.45147,78.35098,0.935,0.866,0.541,36,0.652
+LOC_005,Synthetic Kotak Mahindra Bank - Ameerpet Metro Hub #5,ATM Kiosk,17.47084,78.46262,0.872,0.924,0.549,24,0.912
+LOC_006,Synthetic Punjab National Bank - Secunderabad Railway Stn #6,ATM Kiosk,17.42744,78.50562,0.644,0.754,0.642,19,0.869
+LOC_007,Synthetic Bank of Baroda - Dilsukhnagar Cross Roads #7,ATM Kiosk,17.37579,78.53535,0.889,0.92,0.669,28,0.679
+LOC_008,Synthetic Union Bank of India - Charminar Old City Center #8,ATM Kiosk,17.3748,78.46142,0.66,0.811,0.903,22,0.86
+LOC_009,Synthetic Canara Bank - Kukatpally KPHB Colony #9,ATM Kiosk,17.50548,78.40905,0.85,0.859,0.95,26,0.668
+LOC_010,Synthetic IndusInd Bank - Madhapur 100ft Road #10,ATM Kiosk,17.44757,78.39254,0.65,0.734,0.402,21,0.709
+LOC_011,Synthetic Tata Indicash - Mehdipatnam Rythu Bazar #11,ATM Kiosk,17.38223,78.44992,0.739,0.727,0.775,30,0.781
+LOC_012,Synthetic Hitachi Money Spot - Jubilee Hills Checkpost #12,ATM Kiosk,17.43317,78.41066,0.647,0.653,0.651,21,0.433
+LOC_013,Synthetic State Bank of India - Tolichowki X Roads #13,Bank Branch Counter,17.36924,78.41655,0.7,0.721,0.408,23,0.757
+LOC_014,Synthetic HDFC Bank - Uppal Ring Road #14,Bank Branch Counter,17.37753,78.56329,0.613,0.515,0.336,21,0.817
+LOC_015,Synthetic ICICI Bank - Kondapur Botanical Garden #15,ATM Kiosk,17.46673,78.36389,0.523,0.619,0.751,18,0.641
+LOC_016,Synthetic Axis Bank - Abids Commercial Center #16,Bank Branch Counter,17.375,78.48299,0.639,0.86,0.13,24,0.905
+LOC_017,Synthetic Kotak Mahindra Bank - Miyapur Metro Terminal #17,ATM Kiosk,17.49088,78.36618,0.811,0.893,0.701,26,0.692
+LOC_018,Synthetic Punjab National Bank - Somajiguda Circle #18,ATM Kiosk,17.40963,78.44677,0.745,0.694,0.652,29,0.492
+LOC_019,Synthetic Bank of Baroda - Malakpet Super Bazar #19,Bank Branch Counter,17.39157,78.53247,0.678,0.718,0.124,28,0.814
+LOC_020,Synthetic Union Bank of India - Sanath Nagar Industrial #20,Customer Service Point (CSP),17.44759,78.44411,0.695,0.679,0.375,25,0.603
+LOC_021,Synthetic Canara Bank - Banjara Hills Rd 12 #21,ATM Kiosk,17.4177,78.4204,0.755,0.91,0.81,22,0.59
+LOC_022,Synthetic IndusInd Bank - Hitec City Cyber Towers #22,Bank Branch Counter,17.43683,78.39236,0.761,0.863,0.625,25,0.66
+LOC_023,Synthetic Tata Indicash - Begumpet Main Road #23,ATM Kiosk,17.45454,78.46212,0.721,0.814,0.95,25,0.487
+LOC_024,Synthetic Hitachi Money Spot - Gachibowli DLF Kiosk #24,Bank Branch Counter,17.43969,78.34535,0.798,0.777,0.447,29,0.744
+LOC_025,Synthetic State Bank of India - Ameerpet Metro Hub #25,Customer Service Point (CSP),17.43207,78.45762,0.95,0.841,0.201,31,0.907
+LOC_026,Synthetic HDFC Bank - Secunderabad Railway Stn #26,ATM Kiosk,17.43501,78.49089,0.835,0.823,0.529,30,0.865
+LOC_027,Synthetic ICICI Bank - Dilsukhnagar Cross Roads #27,ATM Kiosk,17.35729,78.54128,0.891,0.785,0.746,32,0.802
+LOC_028,Synthetic Axis Bank - Charminar Old City Center #28,ATM Kiosk,17.37206,78.48155,0.894,0.942,0.798,30,0.841
+LOC_029,Synthetic Kotak Mahindra Bank - Kukatpally KPHB Colony #29,ATM Kiosk,17.49578,78.38923,0.696,0.695,0.432,25,0.667
+LOC_030,Synthetic Punjab National Bank - Madhapur 100ft Road #30,ATM Kiosk,17.44926,78.38584,0.789,0.801,0.538,24,0.734
+LOC_031,Synthetic Bank of Baroda - Mehdipatnam Rythu Bazar #31,ATM Kiosk,17.42037,78.46312,0.896,0.931,0.702,33,0.844
+LOC_032,Synthetic Union Bank of India - Jubilee Hills Checkpost #32,ATM Kiosk,17.42186,78.39999,0.539,0.72,0.83,14,0.523
+LOC_033,Synthetic Canara Bank - Tolichowki X Roads #33,ATM Kiosk,17.40491,78.39305,0.835,0.944,0.757,35,0.634
+LOC_034,Synthetic IndusInd Bank - Uppal Ring Road #34,ATM Kiosk,17.42392,78.5754,0.549,0.719,0.816,15,0.615
+LOC_035,Synthetic Tata Indicash - Kondapur Botanical Garden #35,ATM Kiosk,17.44546,78.36574,0.381,0.46,0.931,18,0.57
+LOC_036,Synthetic Hitachi Money Spot - Abids Commercial Center #36,ATM Kiosk,17.38321,78.48746,0.731,0.667,0.769,26,0.682
+LOC_037,Synthetic State Bank of India - Miyapur Metro Terminal #37,ATM Kiosk,17.50457,78.35661,0.45,0.753,0.608,24,0.695
+LOC_038,Synthetic HDFC Bank - Somajiguda Circle #38,ATM Kiosk,17.42515,78.46117,0.528,0.643,0.626,16,0.658
+LOC_039,Synthetic ICICI Bank - Malakpet Super Bazar #39,ATM Kiosk,17.38662,78.51943,0.746,0.831,0.606,29,0.754
+LOC_040,Synthetic Axis Bank - Sanath Nagar Industrial #40,Bank Branch Counter,17.44948,78.44085,0.672,0.864,0.251,25,0.644
+LOC_041,Synthetic Kotak Mahindra Bank - Banjara Hills Rd 12 #41,Customer Service Point (CSP),17.43423,78.42973,0.609,0.731,0.342,25,0.608
+LOC_042,Synthetic Punjab National Bank - Hitec City Cyber Towers #42,Customer Service Point (CSP),17.46179,78.38469,0.707,0.763,0.429,21,0.887
+LOC_043,Synthetic Bank of Baroda - Begumpet Main Road #43,ATM Kiosk,17.45846,78.45064,0.677,0.805,0.595,23,0.433
+LOC_044,Synthetic Union Bank of India - Gachibowli DLF Kiosk #44,Customer Service Point (CSP),17.46135,78.34829,0.718,0.8,0.255,21,0.769
+LOC_045,Synthetic Canara Bank - Ameerpet Metro Hub #45,ATM Kiosk,17.4323,78.45075,0.906,0.94,0.873,29,0.797
+LOC_046,Synthetic IndusInd Bank - Secunderabad Railway Stn #46,ATM Kiosk,17.45022,78.50523,0.95,0.961,0.676,33,0.74
+LOC_047,Synthetic Tata Indicash - Dilsukhnagar Cross Roads #47,ATM Kiosk,17.36061,78.52412,0.927,0.941,0.774,32,0.684
+LOC_048,Synthetic Hitachi Money Spot - Charminar Old City Center #48,Customer Service Point (CSP),17.35147,78.47739,0.781,0.8,0.224,27,0.82
+LOC_049,Synthetic State Bank of India - Kukatpally KPHB Colony #49,ATM Kiosk,17.48862,78.42182,0.82,0.99,0.683,32,0.584
+LOC_050,Synthetic HDFC Bank - Madhapur 100ft Road #50,ATM Kiosk,17.45771,78.36601,0.627,0.638,0.723,23,0.83
+LOC_051,Synthetic ICICI Bank - Mehdipatnam Rythu Bazar #51,ATM Kiosk,17.39856,78.45265,0.834,0.965,0.805,28,0.754
+LOC_052,Synthetic Axis Bank - Jubilee Hills Checkpost #52,Bank Branch Counter,17.42601,78.38894,0.685,0.731,0.526,17,0.502
+LOC_053,Synthetic Kotak Mahindra Bank - Tolichowki X Roads #53,ATM Kiosk,17.40421,78.41603,0.892,0.877,0.653,24,0.631
+LOC_054,Synthetic Punjab National Bank - Uppal Ring Road #54,ATM Kiosk,17.40823,78.54179,0.748,0.807,0.588,32,0.629
+LOC_055,Synthetic Bank of Baroda - Kondapur Botanical Garden #55,ATM Kiosk,17.46304,78.38084,0.683,0.758,0.547,22,0.699
+LOC_056,Synthetic Union Bank of India - Abids Commercial Center #56,ATM Kiosk,17.39933,78.4862,0.554,0.559,0.394,18,0.787
+LOC_057,Synthetic Canara Bank - Miyapur Metro Terminal #57,ATM Kiosk,17.49096,78.37111,0.738,0.802,0.698,29,0.617
+LOC_058,Synthetic IndusInd Bank - Somajiguda Circle #58,Customer Service Point (CSP),17.40432,78.43299,0.581,0.56,0.44,21,0.515
+LOC_059,Synthetic Tata Indicash - Malakpet Super Bazar #59,ATM Kiosk,17.38417,78.49851,0.916,0.826,0.633,30,0.645
+LOC_060,Synthetic Hitachi Money Spot - Sanath Nagar Industrial #60,ATM Kiosk,17.45129,78.43982,0.556,0.623,0.52,27,0.663
+LOC_061,Synthetic State Bank of India - Banjara Hills Rd 12 #61,ATM Kiosk,17.42178,78.44946,0.735,0.705,0.59,28,0.606
+LOC_062,Synthetic HDFC Bank - Hitec City Cyber Towers #62,ATM Kiosk,17.43566,78.36262,0.857,0.99,0.663,32,0.745
+LOC_063,Synthetic ICICI Bank - Begumpet Main Road #63,ATM Kiosk,17.43233,78.46595,0.752,0.53,0.578,22,0.585
+LOC_064,Synthetic Axis Bank - Gachibowli DLF Kiosk #64,ATM Kiosk,17.43953,78.35044,0.642,0.89,0.832,22,0.868
+LOC_065,Synthetic Kotak Mahindra Bank - Ameerpet Metro Hub #65,ATM Kiosk,17.46599,78.46047,0.806,0.961,0.642,25,0.95
+LOC_066,Synthetic Punjab National Bank - Secunderabad Railway Stn #66,ATM Kiosk,17.41818,78.48472,0.876,0.773,0.627,28,0.751
+LOC_067,Synthetic Bank of Baroda - Dilsukhnagar Cross Roads #67,ATM Kiosk,17.33877,78.53292,0.839,0.811,0.736,30,0.742
+LOC_068,Synthetic Union Bank of India - Charminar Old City Center #68,ATM Kiosk,17.35521,78.47589,0.855,0.661,0.782,27,0.826
+LOC_069,Synthetic Canara Bank - Kukatpally KPHB Colony #69,ATM Kiosk,17.49716,78.36661,0.654,0.696,0.471,26,0.609
+LOC_070,Synthetic IndusInd Bank - Madhapur 100ft Road #70,ATM Kiosk,17.45151,78.38368,0.685,0.656,0.642,28,0.634
+LOC_071,Synthetic Tata Indicash - Mehdipatnam Rythu Bazar #71,ATM Kiosk,17.40498,78.45026,0.688,0.987,0.434,19,0.774
+LOC_072,Synthetic Hitachi Money Spot - Jubilee Hills Checkpost #72,ATM Kiosk,17.43047,78.41054,0.534,0.784,0.738,20,0.517
+LOC_073,Synthetic State Bank of India - Tolichowki X Roads #73,ATM Kiosk,17.39728,78.40857,0.794,0.9,0.369,29,0.718
+LOC_074,Synthetic HDFC Bank - Uppal Ring Road #74,Bank Branch Counter,17.41317,78.53574,0.519,0.472,0.287,18,0.754
+LOC_075,Synthetic ICICI Bank - Kondapur Botanical Garden #75,ATM Kiosk,17.45813,78.37688,0.669,0.744,0.567,24,0.593
+LOC_076,Synthetic Axis Bank - Abids Commercial Center #76,ATM Kiosk,17.39563,78.47756,0.688,0.807,0.95,24,0.75
+LOC_077,Synthetic Kotak Mahindra Bank - Miyapur Metro Terminal #77,ATM Kiosk,17.4837,78.3453,0.791,0.836,0.648,31,0.743
+LOC_078,Synthetic Punjab National Bank - Somajiguda Circle #78,ATM Kiosk,17.41896,78.46688,0.498,0.736,0.903,19,0.74
+LOC_079,Synthetic Bank of Baroda - Malakpet Super Bazar #79,ATM Kiosk,17.3625,78.49585,0.727,0.847,0.566,16,0.724
+LOC_080,Synthetic Union Bank of India - Sanath Nagar Industrial #80,ATM Kiosk,17.48972,78.44241,0.733,0.815,0.734,22,0.698
+LOC_081,Synthetic Canara Bank - Banjara Hills Rd 12 #81,ATM Kiosk,17.3995,78.45764,0.668,0.744,0.686,26,0.853
+LOC_082,Synthetic IndusInd Bank - Hitec City Cyber Towers #82,ATM Kiosk,17.45669,78.3789,0.677,0.637,0.452,26,0.726
+LOC_083,Synthetic Tata Indicash - Begumpet Main Road #83,ATM Kiosk,17.45924,78.45518,0.45,0.599,0.531,15,0.599
+LOC_084,Synthetic Hitachi Money Spot - Gachibowli DLF Kiosk #84,ATM Kiosk,17.42427,78.35543,0.82,0.99,0.869,27,0.661
+LOC_085,Synthetic State Bank of India - Ameerpet Metro Hub #85,ATM Kiosk,17.43751,78.4502,0.782,0.806,0.583,30,0.841
+LOC_086,Synthetic HDFC Bank - Secunderabad Railway Stn #86,ATM Kiosk,17.43576,78.50111,0.766,0.712,0.716,25,0.94
+LOC_087,Synthetic ICICI Bank - Dilsukhnagar Cross Roads #87,ATM Kiosk,17.34386,78.50981,0.682,0.761,0.743,22,0.788
+LOC_088,Synthetic Axis Bank - Charminar Old City Center #88,ATM Kiosk,17.36793,78.46137,0.95,0.969,0.891,36,0.69
+LOC_089,Synthetic Kotak Mahindra Bank - Kukatpally KPHB Colony #89,ATM Kiosk,17.49498,78.39794,0.75,0.67,0.647,25,0.765
+LOC_090,Synthetic Punjab National Bank - Madhapur 100ft Road #90,Customer Service Point (CSP),17.43702,78.38717,0.796,0.69,0.432,30,0.655
+LOC_091,Synthetic Bank of Baroda - Mehdipatnam Rythu Bazar #91,ATM Kiosk,17.37166,78.46218,0.636,0.636,0.897,15,0.821
+LOC_092,Synthetic Union Bank of India - Jubilee Hills Checkpost #92,ATM Kiosk,17.41244,78.38452,0.72,0.781,0.685,23,0.582
+LOC_093,Synthetic Canara Bank - Tolichowki X Roads #93,Customer Service Point (CSP),17.41276,78.41203,0.706,0.888,0.663,27,0.69
+LOC_094,Synthetic IndusInd Bank - Uppal Ring Road #94,Bank Branch Counter,17.39678,78.56042,0.655,0.674,0.223,23,0.542
+LOC_095,Synthetic Tata Indicash - Kondapur Botanical Garden #95,ATM Kiosk,17.48507,78.37561,0.533,0.719,0.943,24,0.5
+LOC_096,Synthetic Hitachi Money Spot - Abids Commercial Center #96,Customer Service Point (CSP),17.39492,78.45141,0.602,0.639,0.344,23,0.672
+LOC_097,Synthetic State Bank of India - Miyapur Metro Terminal #97,ATM Kiosk,17.47959,78.36207,0.488,0.564,0.901,13,0.686
+LOC_098,Synthetic HDFC Bank - Somajiguda Circle #98,ATM Kiosk,17.40326,78.46372,0.608,0.618,0.805,18,0.6
+LOC_099,Synthetic ICICI Bank - Malakpet Super Bazar #99,ATM Kiosk,17.35493,78.51385,0.675,0.762,0.727,22,0.868
+LOC_100,Synthetic Axis Bank - Sanath Nagar Industrial #100,ATM Kiosk,17.45743,78.44959,0.604,0.765,0.846,23,0.534

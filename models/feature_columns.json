@@ -1,0 +1,23 @@
+[
+  "distance_km",
+  "proximity_score",
+  "candidate_historical_risk",
+  "candidate_volume_score",
+  "candidate_night_activity",
+  "candidate_incident_count",
+  "transaction_amount",
+  "transaction_hour",
+  "transaction_day",
+  "is_night",
+  "suspicious_activity_score",
+  "victim_area_risk_score",
+  "crime_type_Card Fraud",
+  "crime_type_Other Financial Fraud",
+  "crime_type_Phishing",
+  "crime_type_UPI Fraud",
+  "transaction_type_IMPS",
+  "transaction_type_NEFT",
+  "transaction_type_Other",
+  "transaction_type_POS",
+  "transaction_type_UPI"
+]

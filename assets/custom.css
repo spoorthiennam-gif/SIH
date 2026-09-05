@@ -1,0 +1,171 @@
+/* CYBERGUARD AI - Custom Stylesheet */
+/* SIH Theme: Modern Dark Navy, Slate, Electric Cyan & High-Contrast Risk Accents */
+
+:root {
+    --bg-main: #0b1120;
+    --bg-card: #131d31;
+    --bg-card-hover: #1c2a45;
+    --border-color: #243552;
+    --primary-blue: #3b82f6;
+    --accent-cyan: #06b6d4;
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --text-muted: #64748b;
+    --risk-high: #ef4444;
+    --risk-medium: #f59e0b;
+    --risk-low: #10b981;
+}
+
+/* Base modifications for Streamlit container */
+.stApp {
+    background-color: var(--bg-main);
+    color: var(--text-primary);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* Sidebar styling */
+[data-testid="stSidebar"] {
+    background-color: #0d1527 !important;
+    border-right: 1px solid var(--border-color);
+}
+
+/* Custom Header Badge */
+.demo-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, rgba(239, 68, 68, 0.2), rgba(245, 158, 11, 0.2));
+    border: 1px solid #ef4444;
+    color: #fca5a5;
+    padding: 4px 12px;
+    border-radius: 9999px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+.platform-title {
+    font-size: 28px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    background: linear-gradient(90deg, #ffffff 0%, #38bdf8 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 2px;
+}
+
+.platform-subtitle {
+    color: var(--accent-cyan);
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    margin-bottom: 20px;
+}
+
+/* KPI Stat Cards */
+.kpi-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 18px 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.kpi-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent-cyan);
+}
+
+.kpi-label {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 6px;
+}
+
+.kpi-value {
+    font-size: 28px;
+    font-weight: 800;
+    color: #ffffff;
+    line-height: 1.2;
+}
+
+.kpi-delta {
+    font-size: 11px;
+    color: var(--accent-cyan);
+    margin-top: 4px;
+}
+
+/* Intelligence Cards */
+.intel-card {
+    background: linear-gradient(180deg, #131d31 0%, #0d1527 100%);
+    border: 1px solid #334155;
+    border-radius: 14px;
+    padding: 22px;
+    margin-top: 15px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+
+.intel-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 12px;
+    margin-bottom: 16px;
+}
+
+/* Risk Badges */
+.badge-high {
+    background-color: rgba(239, 68, 68, 0.18);
+    color: #f87171;
+    border: 1px solid #ef4444;
+    padding: 3px 10px;
+    border-radius: 6px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.badge-medium {
+    background-color: rgba(245, 158, 11, 0.18);
+    color: #fbbf24;
+    border: 1px solid #f59e0b;
+    padding: 3px 10px;
+    border-radius: 6px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.badge-low {
+    background-color: rgba(16, 185, 129, 0.18);
+    color: #34d399;
+    border: 1px solid #10b981;
+    padding: 3px 10px;
+    border-radius: 6px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+/* Scenario Quick Select Buttons */
+.scenario-box {
+    background: #101a2e;
+    border: 1px dashed #2e4468;
+    border-radius: 10px;
+    padding: 14px;
+    margin-bottom: 16px;
+}
+
+/* Legal & Decision Support Disclaimer Box */
+.disclaimer-box {
+    background-color: rgba(15, 23, 42, 0.8);
+    border-left: 4px solid var(--accent-cyan);
+    border-radius: 6px;
+    padding: 12px 16px;
+    font-size: 12px;
+    color: #94a3b8;
+    margin-top: 20px;
+    line-height: 1.5;
+}

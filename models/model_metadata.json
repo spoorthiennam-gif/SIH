@@ -1,0 +1,54 @@
+{
+  "model_name": "RandomForestClassifier",
+  "training_timestamp": "2026-09-04T23:16:11.435106",
+  "dataset_size": 25000,
+  "train_size": 20000,
+  "test_size": 5000,
+  "accuracy": 0.952,
+  "precision": 0.8215,
+  "recall": 0.971,
+  "f1": 0.89,
+  "roc_auc": 0.9894,
+  "top1": 0.996,
+  "top3": 1.0,
+  "top5": 1.0,
+  "confusion_matrix": [
+    [
+      3789,
+      211
+    ],
+    [
+      29,
+      971
+    ]
+  ],
+  "feature_importances": {
+    "distance_km": 0.3454,
+    "proximity_score": 0.3282,
+    "candidate_historical_risk": 0.1081,
+    "candidate_night_activity": 0.0763,
+    "candidate_incident_count": 0.0522,
+    "candidate_volume_score": 0.0448,
+    "is_night": 0.0101,
+    "transaction_hour": 0.0096,
+    "transaction_amount": 0.0061,
+    "suspicious_activity_score": 0.0061,
+    "victim_area_risk_score": 0.0055,
+    "transaction_day": 0.0027,
+    "transaction_type_UPI": 0.0008,
+    "crime_type_Phishing": 0.0007,
+    "crime_type_UPI Fraud": 0.0006,
+    "transaction_type_IMPS": 0.0006,
+    "transaction_type_POS": 0.0006,
+    "crime_type_Card Fraud": 0.0005,
+    "transaction_type_NEFT": 0.0005,
+    "crime_type_Other Financial Fraud": 0.0004,
+    "transaction_type_Other": 0.0002
+  },
+  "parameters": {
+    "n_estimators": 150,
+    "max_depth": 10,
+    "class_weight": "balanced",
+    "random_state": 42
+  }
+}
